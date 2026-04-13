@@ -1,5 +1,6 @@
 # FLUX Debugger — Step Debugger with Breakpoints
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 Debug FLUX bytecodes across all runtimes with a Python reference debugger.
 
 ## Features
